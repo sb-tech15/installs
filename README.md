@@ -1,6 +1,4 @@
 # installs
-useful programs
-
 AdobeGenP = all adobe apps  | 
 rufus = usb boot image burner | 
 ventoy = multiple iso images on one usb   | 
